@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+ 
+
+
+
+# Reference for snapshot testing in React using Jest and enzyme
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
